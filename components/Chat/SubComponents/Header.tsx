@@ -1,6 +1,6 @@
 "use client"
 
-import { Button } from "@/components/ui/Buttom"
+import { Button } from "@/components/ui/Button"
 import { useStoreModal } from "@/hooks/useChat"
 import { ArrowDownRightSquare, ArrowUpRightSquare } from "lucide-react"
 

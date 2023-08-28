@@ -1,6 +1,6 @@
 "use client"
 
-import { Button } from "@/components/ui/Buttom"
+import { Button } from "@/components/ui/Button"
 import { useStoreModal } from "@/hooks/useChat"
 import { Loader } from "lucide-react"
 import { nanoid } from "nanoid"
